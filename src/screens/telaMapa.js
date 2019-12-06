@@ -10,8 +10,8 @@ export default class TelaMapa extends Component {
                 style={styles.map}
                 loadingEnabled={true}
                 region={{
-                latitude: 37.78825,
-                longitude: -122.4324,
+                latitude: -5.634232,
+                longitude: -35.425989,
                 latitudeDelta: 0.015,
                 longitudeDelta: 0.0121,
                 }}
